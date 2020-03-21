@@ -1,1 +1,1 @@
-# nwHacks2020-App
+https://devpost.com/software/ecovillage
